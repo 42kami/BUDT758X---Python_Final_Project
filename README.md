@@ -2,6 +2,6 @@
   Ms Dahlin python class
 # Group #13
 Members: 
-  Nikita Chinchwade /n
-  Anuj Doshi /n
-  Chongwen Sun
+Nikita Chinchwade
+Anuj Doshi
+Chongwen Sun
